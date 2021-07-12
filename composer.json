@@ -1,7 +1,7 @@
 {
 	"name": "php_modules/format",
 	"version": "1.0.1",
-	"description": "String Formater.",
+	"description": "PHP formatter for string interpolation.",
   "type": "library",
 	"license": "MIT",
   "minimum-stability": "dev",
