@@ -62,7 +62,7 @@ namespace Sammy\Packs\Format {
      *
      *
      */
-    public final function format (string $string = null) {
+    public function format (string $string = null) {
       $re = '/\{([a-zA-Z0-9_\\-:\\|\\\]*)\}/';
 
       $formatContext = new FormatContext;
